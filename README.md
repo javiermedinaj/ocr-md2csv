@@ -44,8 +44,8 @@ Create a `.env` file in the root directory:
 - `dotenv`: Environment variable management
 
 ## API Keys
-- Llama OCR API key: [https://www.npmjs.com/package/llama-ocr]()
-- TableConvert API key: [https://tableconvert.com/]()
+- Llama OCR API key: [Llama OCR on npm](https://www.npmjs.com/package/llama-ocr)
+- TableConvert API key: [TableConvert](https://tableconvert.com/)
 
 ## Note
 - TableConvert API is optional. You can use the website directly at tableconvert.com. The API integration is used to automate and speed up the conversion process.
